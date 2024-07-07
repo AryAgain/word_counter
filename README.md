@@ -7,8 +7,8 @@
 1. Ensure you have Python installed.
 2. Unzip the file
 3. Open a terminal or load the project in an IDE.
-4. Navigate to the project directory: **word_counter**.
-5. Run the command: `python main.py`
+4. All solution codes are under the directory **word_counter** and sample testing text data files under directory **data**.
+5. Navigate to the **word_counter** directory. Run the command: `python main.py`
 6. New data file of predefined words or input file can be added under 'data' directory.
 7. Filename or chunks unit can be modified under config.py
 
